@@ -1,0 +1,49 @@
+{
+  "name": "@landing/019-gatsby",
+  "private": true,
+  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "version": "0.0.1",
+  "author": "RedQ, Inc.",
+  "dependencies": {
+    "framer-motion": "^3.1.1",
+    "gatsby": "^2.29.3",
+    "gatsby-image": "^2.8.0",
+    "gatsby-plugin-google-analytics": "^2.8.0",
+    "gatsby-plugin-mailchimp": "^5.2.2",
+    "gatsby-plugin-manifest": "^2.9.1",
+    "gatsby-plugin-react-helmet": "^3.7.0",
+    "gatsby-plugin-robots-txt": "^1.5.5",
+    "gatsby-plugin-sharp": "^2.11.2",
+    "gatsby-plugin-theme-ui": "^0.3.5",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-source-filesystem": "^2.8.1",
+    "gatsby-transformer-sharp": "^2.9.0",
+    "polished": "^4.0.5",
+    "prop-types": "^15.7.2",
+    "rc-drawer": "^4.1.0",
+    "react": "^17.0.1",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.1.0",
+    "react-modal-video": "^1.2.6",
+    "react-scroll": "^1.8.1",
+    "react-slick": "^0.27.13",
+    "react-stickynode": "^3.0.4",
+    "react-waypoint": "^9.0.3",
+    "theme-ui": "^0.3.5",
+    "typeface-bree-serif": "^1.1.13",
+    "typeface-dm-sans": "^1.1.13"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  }
+}
